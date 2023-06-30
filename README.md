@@ -4,6 +4,7 @@ Project Goal: Design a system utilizing the functionality of a Rasperry Pi
 
 Included languages/features:
 - Python
+- HTML
 - Flask
 - Node.js
 - Rasperry Pi
